@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import { Animated, View, TouchableWithoutFeedback, LayoutChangeEvent } from 'react-native';
 import {
   PanGestureHandler,

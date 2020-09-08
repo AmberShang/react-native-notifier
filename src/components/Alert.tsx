@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import { StyleSheet, View, Text, TextStyle } from 'react-native';
 
 import SafeContainer from './SafeContainer';

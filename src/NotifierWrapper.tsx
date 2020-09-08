@@ -1,4 +1,4 @@
-import React from 'react';
+import * as React from 'react';
 import { NotifierRoot } from './Notifier';
 import { ShowNotificationParams } from './types';
 
